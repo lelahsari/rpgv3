@@ -1,6 +1,7 @@
 # rpgv3
 Nama : Lelah Sari
 NIM : 1909894
+Kelas : Pendidikan Ilmu Komputer A
 
 Modifikasi
 -Class Item di jadikan parent
